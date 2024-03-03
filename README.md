@@ -1,2 +1,3 @@
 # Ringtone-Player-Using-8051
 A ringtone player using an 8051 microcontroller is a simple electronic circuit that a tone or melody, typically  for use as a ringtone in a phone or other communication device.
+A suitable microcontroller, such as the AT89C51 or AT89S52, which have built-in timers and programmable I/O ports. The microcontroller can be programmed in assembly or C language to generate the desired square wave using a timer and output pins. The frequency and duration of the square wave can be controlled using the timer and software, allowing for precise control over the tone and melody produced by the circuit. 
